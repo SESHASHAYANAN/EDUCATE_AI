@@ -1,0 +1,87 @@
+/* General Styling */
+.enhanced-tracker {
+  max-width: 900px; /* Adjust width for better centering */
+  margin: 0 auto; /* Center the container */
+  padding: 40px; /* Add inner spacing for sides */
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f9f9f9; /* Optional background color for better visibility */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for aesthetics */
+  border-radius: 10px; /* Optional rounded corners */
+}
+
+/* Header Styling */
+.header {
+  background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+/* Typography */
+h1 {
+  font-size: 2.5em;
+}
+
+h2,
+h3 {
+  font-size: 1.4em;
+  margin-bottom: 10px;
+  color: #1e3c72;
+}
+
+/* Button Styling */
+button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color: #1e3c72;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #2a5298;
+}
+
+.open-sourced {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+button.open-sourced {
+  background-color: green !important;
+  color: white !important;
+}
+
+/* Content Layout */
+.project-overview,
+.team-details,
+.comments-section {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px; /* Space between sections */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+/* Table Styling */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #f2f2f2;
+}

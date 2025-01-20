@@ -1,0 +1,120 @@
+.booking-system {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header {
+  background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.filters {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+select {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.calendar {
+  display: flex;
+  flex-direction: column; /* Stack cards vertically */
+  gap: 20px; /* Add space between cards */
+  margin-bottom: 30px;
+}
+
+.hall-card {
+  background: rgb(196, 179, 179);
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s;
+  overflow-x: auto; /* Allow horizontal scrolling for tables */
+}
+
+.hall-card:hover {
+  transform: translateY(-5px);
+}
+
+.hall-name {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #1e3c72;
+}
+
+.hall-info {
+  margin-bottom: 10px;
+  color: #000000;
+}
+
+.table {
+  width: 100%;
+  margin-top: 15px;
+  border-collapse: collapse;
+  color: #1e3c72;
+  table-layout: fixed; /* Ensures equal width for columns */
+}
+
+.table th,
+.table td {
+  padding: 10px;
+  border: 1px solid #0e0d0d;
+  text-align: left;
+  word-wrap: break-word; /* Prevent content overflow */
+  white-space: normal; /* Allow multi-line content */
+}
+
+.table th {
+  background-color: #f2f2f2;
+  color: #000000;
+}
+.table {
+  color: #000000;
+}
+.table td {
+  color: #000000;
+}
+
+.read-more-button {
+  background-color: #28a745;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.read-more-button:hover {
+  background-color: #218838;
+}
+
+@media (max-width: 768px) {
+  .filters {
+    flex-direction: column;
+  }
+
+  .table th,
+  .table td {
+    font-size: 14px;
+  }
+
+  .read-more-button {
+    padding: 5px 8px; /* Adjust button size */
+  }
+}
