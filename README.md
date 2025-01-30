@@ -1,3 +1,2 @@
 # EDUCATE_AI_VERSION1
-Created with CodeSandboxK
-
+Created with CodeSandbox
