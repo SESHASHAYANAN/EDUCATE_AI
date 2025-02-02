@@ -6,13 +6,14 @@ This documentation will take you step-by-step through the key features and funct
 
 1. The Sidebar and Homepage
 Once you log into the platform, you'll be greeted with a Sidebar and Homepage.
+
 ![image](https://github.com/user-attachments/assets/f6b964a3-bfcb-4841-9662-96926c9ac745)
 Sidebar:
 The Sidebar provides quick access to various sections, including Workspace, Schedule, Community, Projects, Education, Forum, Hackathon, Connect, Jobs, Profile, and Search.
 Homepage:
 The Homepage showcases your Workspace, which contains the projects you're currently working on, giving you a quick overview of your tasks and priorities.
 
-2. Schedule
+3. Schedule
 The Schedule is an intelligent AI-powered system designed for team alignment, task management, and collaboration. It offers advanced scheduling and prioritization features.
 
 AI-based Scheduling: Automatically align tasks with team priorities and deadlines.
@@ -70,7 +71,20 @@ Concept Master: This feature uses AI to help you master topics through 9 proven 
 ![image](https://github.com/user-attachments/assets/f8bd47b5-91f3-4211-ad96-1fc51a66d88c)
 ![image](https://github.com/user-attachments/assets/08df20c5-3cfd-459c-a755-cc1feb40395a)
 ![image](https://github.com/user-attachments/assets/e47a3bd5-133e-4bbc-a47e-ae78b05cd90f)
+![image](https://github.com/user-attachments/assets/7091d14f-6622-4970-96bb-0953736149e4)
+![image](https://github.com/user-attachments/assets/3edd8d40-0c6e-4275-98b9-82753f02beb6)
+![image](https://github.com/user-attachments/assets/f7b1a538-8707-4e3e-83c5-040b5ba5d250)
+![image](https://github.com/user-attachments/assets/81ae6e56-78eb-4b7b-af47-f915399ed6ec)
+![image](https://github.com/user-attachments/assets/bd71cc9a-afc1-45a7-bfdb-539021b7f32a)
 
 Constructive Learning: Engage with your AI friend via whiteboard tools for a more hands-on learning experience.
+
+![image](https://github.com/user-attachments/assets/0ae77167-030a-49b3-b986-4ee3c6233d7e)
+![image](https://github.com/user-attachments/assets/45f9b5af-ead6-41be-935e-06b14039f336)
+
 ORCA AI: A fine-tuned AI assistant to guide you through specific subject modules using AI-driven learning paths.
+
+![image](https://github.com/user-attachments/assets/e13d3736-5210-498f-ba8f-219c70bad492)
+![image](https://github.com/user-attachments/assets/0b5c0d89-ab2c-4e27-8b63-17d79b97f31e)
+
 
