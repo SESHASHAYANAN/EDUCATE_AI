@@ -87,4 +87,53 @@ ORCA AI: A fine-tuned AI assistant to guide you through specific subject modules
 ![image](https://github.com/user-attachments/assets/e13d3736-5210-498f-ba8f-219c70bad492)
 ![image](https://github.com/user-attachments/assets/0b5c0d89-ab2c-4e27-8b63-17d79b97f31e)
 
+6. Connect
+The Connect section fosters community building in a variety of ways.
 
+Add Friends: Easily add fellow students to your network.
+
+![image](https://github.com/user-attachments/assets/066cfcf8-4518-4087-a962-79d64891d4d2)
+
+Accommodation & Hotels: Students can find accommodation based on peer reviews.
+
+![image](https://github.com/user-attachments/assets/e3c025f1-b4be-4b44-b1dd-7b7cf25d0285)
+
+Shared Housing: Share housing with fellow students to lower costs.
+
+![image](https://github.com/user-attachments/assets/5536d8ea-cebb-4848-b348-0d11cd3587dd)
+
+Games & Events: Play games by forming groups with friends or host social events and parties.
+
+![image](https://github.com/user-attachments/assets/5dcc0401-0406-423d-8a9a-59d271649d07)
+
+Turf Finder: Locate turfs for sports and other activities to engage in with your community.
+
+![image](https://github.com/user-attachments/assets/0a063a9a-53bf-4cab-9e71-173b361396ea)
+
+7. Jobs
+The Jobs section helps students prepare for and apply for jobs efficiently.
+
+One-Click Job Application: Easily apply for jobs with a single click.
+
+![image](https://github.com/user-attachments/assets/567683f3-30f7-44fe-90f1-486b59997d68)
+![image](https://github.com/user-attachments/assets/1095d48a-48bd-460a-ab86-3c82bdc69fe2)
+
+Company Insights: Read about company experiences, job roles, and application tips from people currently working there.
+
+![image](https://github.com/user-attachments/assets/42c41a3e-5751-42c5-b193-a3bf03fd6a13)
+
+ATS Score: Get feedback on your resume using AI to optimize for applicant tracking systems (ATS).
+
+![image](https://github.com/user-attachments/assets/8b5b8142-823a-45cd-9804-d51c1ab83b64)
+![image](https://github.com/user-attachments/assets/df03c8b9-eb04-4dfc-b9da-16af059f4769)
+
+Project: Work on the issues the company is facing in real-time.
+
+![image](https://github.com/user-attachments/assets/2cba5233-83d0-4011-9e98-c000a85f18f5)
+
+Teamhunt: Join a team to solve projects that will boost your resume and gain recognition.
+
+![image](https://github.com/user-attachments/assets/24284152-0507-4e58-b4c8-06286cde3c25)
+
+Job Hacker: A consultancy feature to help students prepare for specific job roles or companies through insights from employees working in those companies.
+![image](https://github.com/user-attachments/assets/3be18f32-d218-4ab6-be76-1b9fbc60ea86)
