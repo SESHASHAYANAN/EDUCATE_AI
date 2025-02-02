@@ -1,2 +1,2 @@
-# EDUCATE_AI_VERSION1
+# Educate AI Platform Documentation Version 1
 Created with CodeSandboxs
