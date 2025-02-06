@@ -137,3 +137,49 @@ Teamhunt: Join a team to solve projects that will boost your resume and gain rec
 
 Job Hacker: A consultancy feature to help students prepare for specific job roles or companies through insights from employees working in those companies.
 ![image](https://github.com/user-attachments/assets/3be18f32-d218-4ab6-be76-1b9fbc60ea86)
+
+8. Student Forum
+   
+The Student Forum allows students to engage in casual discussions, join interest-based groups, and share their experiences.
+![image](https://github.com/user-attachments/assets/2c69b702-793f-49ff-a98a-964f547fc9d4)
+
+Daily Posts: Post about your experiences, join clubs (e.g., Computer Science Club), or share insights anonymously.
+![image](https://github.com/user-attachments/assets/98b15674-4c0b-4f69-9b02-83c8d52e798e)
+![image](https://github.com/user-attachments/assets/9a8a2e50-dc01-47d7-9ca0-4915d6cc209d)
+
+Interest Groups: Students can form or join groups that align with their academic and extracurricular interests.
+![image](https://github.com/user-attachments/assets/e0ea7b99-5554-4a09-a59b-1ed0f03ff6c1)
+![image](https://github.com/user-attachments/assets/24ba2b68-257a-4c07-b7b0-7d2025565224)
+
+9. Profile
+    
+The Profile page displays a complete summary of your activity:
+![image](https://github.com/user-attachments/assets/e053e504-bc15-4f8a-87c7-31f58739adbe)
+
+Personal Info: View your profile details.
+![image](https://github.com/user-attachments/assets/2213cbe2-f45a-4241-8916-7a97c4b2ee00)
+
+Liked Content: See your saved projects or posts.
+![image](https://github.com/user-attachments/assets/d93f5a8f-8261-4dd7-9c0d-155b484fd2c7)
+
+Achievements & Streaks: Track your accomplishments and engagement history.
+![image](https://github.com/user-attachments/assets/d8e470c9-1a20-48a9-83d2-5e6857cca3cd)
+
+
+8. Hackathon
+The Hackathon section offers opportunities for students to participate in various hackathons.
+![image](https://github.com/user-attachments/assets/53da419d-3ea3-4e35-9441-04c0ebd27bf1)
+
+Famous Hackathons: Participate in globally recognized hackathons from the platform.
+![image](https://github.com/user-attachments/assets/3d540d37-334e-4bcc-85ba-77b555eb8174)
+
+Rewards & Recognition: Gain experience, earn rewards, and build your project portfolio.
+![image](https://github.com/user-attachments/assets/875439d1-1b40-44f9-9358-72bd0d9006e2)
+
+The Educate Experience
+Educate isn’t just a learning platform; it’s an entire student ecosystem. With Educate, students can learn, play, build communities, and secure jobs while enjoying an interactive and immersive experience.
+
+Educate helps students upskill and engage with their academic and social worlds while fostering connections that will benefit them in the future.
+
+Conclusion
+Thank you for exploring Educate AI. We are committed to transforming education by integrating advanced technology and community-driven initiatives. Dive into the platform and start learning, building, and growing today!
