@@ -127,7 +127,7 @@ ATS Score: Get feedback on your resume using AI to optimize for applicant tracki
 ![image](https://github.com/user-attachments/assets/8b5b8142-823a-45cd-9804-d51c1ab83b64)
 ![image](https://github.com/user-attachments/assets/df03c8b9-eb04-4dfc-b9da-16af059f4769)
 
-Project: Work on the issues the company is facing in real-time.
+Project: Work on the issues the company is facing in real time.
 
 ![image](https://github.com/user-attachments/assets/2cba5233-83d0-4011-9e98-c000a85f18f5)
 
