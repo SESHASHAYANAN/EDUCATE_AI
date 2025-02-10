@@ -1,4 +1,4 @@
-# <p align="center">Educate AI Platform Documentation Version 1</p>
+# <p align="center">Educate AI Platform Documentation Version 1.0/p>
 
 ## Welcome to Educate AI
 Hello everyone, welcome to Educate, a student-centric AI platform where students can learn, join communities, participate in hackathons, and secure jobs in an innovative and collaborative environment.
