@@ -6,6 +6,7 @@ Hello everyone, welcome to Educate, a student-centric AI platform where students
 This documentation will take you step-by-step through the key features and functionality of the Educate platform. Let’s explore each section of the platform and see how it holistically empowers students.
 
 ## 1. The Sidebar and Homepage
+
 Once you log into the platform, you'll be greeted with a Sidebar and Homepage.
 
 ![image](https://github.com/user-attachments/assets/f6b964a3-bfcb-4841-9662-96926c9ac745)
