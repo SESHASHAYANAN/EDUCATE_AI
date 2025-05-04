@@ -3,7 +3,7 @@
 ## Welcome to Educate AI
 Hello, everyone. Welcome to Educate, a student-centric AI platform where students can learn, join communities, participate in hackathons, and secure jobs in an innovative and collaborative environment.
 
-This documentation will take you step-by-step through the key features and functionality of the Educate platform. Let’s explore each section of the platform and see how it holistically empowers students.
+This documentation will walk you through the key features and functionality of the Educate platform step-by-step. Let’s explore each section of the platform and see how it holistically empowers students.
 
 ## 1. The Sidebar and Homepage
 
